@@ -1,0 +1,14 @@
+flask
+sentence-transformers
+torch
+pypdf
+python-dotenv
+langchain-pinecone
+langchain
+langchain-community
+langchain-core
+pinecone
+langchain-huggingface
+langchain-groq
+langchain-classic
+-e .

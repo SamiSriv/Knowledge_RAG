@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: knowledge-RAG
+Version: 0.1.0
+Author: Samiksha Srivastava
+Author-email: samikshasrivastava607@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
